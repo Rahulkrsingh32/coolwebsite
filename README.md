@@ -1,4 +1,4 @@
-# Deployed lik for WebApp
+# Deployed link for WebApp
 https://coolwebsite.netlify.app/
 
 # Getting Started with Create React App
